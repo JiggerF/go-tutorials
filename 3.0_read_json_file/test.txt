@@ -1,0 +1,3 @@
+Introduction: This is a simple file
+Body: Describe the actual status of this file is a bit off
+Footer: Disregard what has been said previously

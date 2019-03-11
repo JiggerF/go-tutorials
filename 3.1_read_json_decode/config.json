@@ -1,0 +1,10 @@
+{
+	"database": {
+		"sql": "msql",
+		"hostip": "10.0.0.1",
+		"username": "SA",
+		"password": "<awesomePassw0rd!>"
+	},
+	"env": "production",
+	"timeout": "1000"
+}
